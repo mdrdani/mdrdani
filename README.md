@@ -1,6 +1,6 @@
 ## Hey, folks! 👋
 [![Gmail Badge](https://img.shields.io/badge/-muhamaddani3004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhamaddani3004@gmail.com)](mailto:muhamaddani3004@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mdrdani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrdani/)](https://www.linkedin.com/in/mdanir/) [![Github Badge](https://img.shields.io/badge/-mdrdani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mdrdani/)](https://www.github.com/mdrdani/) [![Twitter Badge](https://img.shields.io/badge/-mdaniramanda-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mdaniramanda/)](https://www.twitter.com/mdaniramanda/)
+[![Linkedin Badge](https://img.shields.io/badge/-mdanir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrdani/)](https://www.linkedin.com/in/mdanir/) [![Github Badge](https://img.shields.io/badge/-mdrdani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mdrdani/)](https://www.github.com/mdrdani/) [![Twitter Badge](https://img.shields.io/badge/-mdaniramanda-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mdaniramanda/)](https://www.twitter.com/mdaniramanda/)
 ## I'm a Network Engineer and Software Engineer!
 - 🔭  I’m currently working on a DarmaBangsa School!
 - 🌱  I’m currently learning everything 🤣
