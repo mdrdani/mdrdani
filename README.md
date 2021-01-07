@@ -9,6 +9,8 @@
 - 🥅  2021 Goals: DevOps (CI/CD).
 
 ### Languages and Tools:
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -24,5 +26,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mdrdani alt=mdrdani /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=compact)](https://github.com/mdrdani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=compact&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
 
