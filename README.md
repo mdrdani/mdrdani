@@ -23,6 +23,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mdrdani alt=mdrdani /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&include_all_commits=true)](https://github.com/mdrdani/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=compact)](https://github.com/mdrdani/github-readme-stats)
 
