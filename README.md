@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
 - 👯  I'm from Indonesia, living in Bandar Lampung
-- 🥅  2021 Goals: DevOps (CI/CD).
+- 🥅  2021 Goals: Golang.
 
 ### Languages and Tools:
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
