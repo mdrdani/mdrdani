@@ -1,12 +1,4 @@
 ## Hey, folks! 👋
-[![Gmail Badge](https://img.shields.io/badge/-muhamaddani3004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhamaddani3004@gmail.com)](mailto:muhamaddani3004@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mdanir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrdani/)](https://www.linkedin.com/in/mdanir/) [![Github Badge](https://img.shields.io/badge/-mdrdani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mdrdani/)](https://www.github.com/mdrdani/) [![Twitter Badge](https://img.shields.io/badge/-mdaniramanda-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mdaniramanda/)](https://www.twitter.com/mdaniramanda/)
-- 🔭  I’m currently working on a Darma Bangsa School!
-- 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
-- 👯  I'm from Indonesia, living in Bandar Lampung
-- 🥅  2021 Goals: Golang.
-
 ### Languages and Tools:
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
