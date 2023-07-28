@@ -10,18 +10,19 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="40px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
+<img align="left" alt="Terraform" width="40px" 
+src="https://github.com/mdrdani/mdrdani/assets/45899199/c4f68f7e-e1bd-45b6-bb64-0da844aaa7cb" />
+<img align="left" alt="Ansible" width="40px" 
+  src="https://github.com/mdrdani/mdrdani/assets/45899199/5e5cb4fc-afe0-488a-81c1-f8733962b6f0" />
+<img align="left" alt="Jenkins" width="40px" 
+  src="https://github.com/mdrdani/mdrdani/assets/45899199/90b3cfde-90b7-4ef1-ac22-c181d236aea1" />
+<img align="left" alt="Kubernetes" width="40px" 
+  src="https://github.com/mdrdani/mdrdani/assets/45899199/056d5670-481b-4fd8-a528-6211e8d88909" />
 <img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br>
 <br>
 <br>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=compact&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
-
-
-
-
-
-
