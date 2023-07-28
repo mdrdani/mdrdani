@@ -24,5 +24,6 @@ src="https://github.com/mdrdani/mdrdani/assets/45899199/c4f68f7e-e1bd-45b6-bb64-
 <br>
 <br>
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=compact&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
+
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=donut&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
