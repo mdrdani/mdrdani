@@ -1,4 +1,4 @@
-![welcomegithub](https://github.com/mdrdani/mdrdani/assets/45899199/e2eb911b-8db1-41a8-bfd0-645c5a3970da)
+![welcomegithub](https://github.com/mdrdani/mdrdani/assets/45899199/2733ee90-ac72-4f5f-a126-c019060933b4)
 ## Introduction
 - 🌱 I’m currently learning  DevOps & Go
 - 🏋️ Workout everyday!
