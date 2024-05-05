@@ -1,9 +1,10 @@
-![welcomegithub](https://github.com/mdrdani/mdrdani/assets/45899199/2733ee90-ac72-4f5f-a126-c019060933b4)
-## Introduction
-- 🌱 I’m currently learning  DevOps  
+![256702753-2733ee90-ac72-4f5f-a126-c019060933b4](https://github.com/mdrdani/mdrdani/assets/45899199/1da57e99-a587-41d1-b43c-ba5ac4e6b24b)
+## Hi 👋! I'm Dani
+- 🌱 I’m currently learning  DevOps 
 - 🏋️ Workout everyday!
-<p>With a strong background as a Chief Technology Officer at <a href="https://www.darmabangsa.sch.id">Sekolah Darma Bangsa</a>, I possess extensive experience in leading technology strategies and driving innovation. My educational background includes a Bachelor's degree in Computer Science from <a href="https://www.darmajaya.ac.id">IBI Darmajaya</a>, equipping me with a solid foundation in informatics engineering. Currently, I am actively seeking opportunities in the DevOps Or BE field, leveraging my expertise in Continuous Integration and Continuous Delivery (CI/CD), DevOps methodologies, and proficiency in various tools such as GitHub, Jenkins, Helm Chart, Kubernetes, Linux, Bash, Ansible, Docker, Terraform, Google Cloud Platform (GCP), Amazon Web Services (AWS), Mikrotik, Ubiquiti Network, PHP Laravel, NodeJS NestJS, Prisma ORM MySQL, and PostgreSQL. With a keen focus on efficiency, automation, and a results-driven approach, I am enthusiastic about making valuable contributions across diverse industries.</p>
-<h3>Languages & Tools:</h3>
+<p>With a strong background as a Chief Technology Officer at Sekolah Darma Bangsa, I possess extensive experience in leading technology strategies and driving innovation. My educational background includes a Bachelor's degree in Computer Science from IBI Darmajaya, equipping me with a solid foundation in informatics engineering. Currently, I am actively seeking opportunities in the DevOps Or BE field. With a keen focus on efficiency, automation, and a results-driven approach, I am enthusiastic about making valuable contributions across diverse industries.</p>
+
+## Languages & Tools
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,5 +25,10 @@ src="https://github.com/mdrdani/mdrdani/assets/45899199/c4f68f7e-e1bd-45b6-bb64-
 <br>
 <br>
 
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mdrdani&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrdani&layout=donut&theme=vue-dark)](https://github.com/mdrdani/github-readme-stats)
+## 📊 My Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=mdrdani&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrdani&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=ayu-mirage&hide_border=true&order=2" height="200" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cehamot&theme=ayu-mirage&hide_border=true&layout=compact" alt="wakatime" />
